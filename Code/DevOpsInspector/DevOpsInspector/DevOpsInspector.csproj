@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AzureFunctionsVersion>v3</AzureFunctionsVersion>
+    <UserSecretsId>392e04c4-9181-4727-bb3a-f8fe44343789</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Configuration.json" />
+    <None Remove="Configuration_dev.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Configuration_dev.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Configuration.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.WorkerService" Version="2.15.0" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.11" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DevOpsInspector.Api\DevOpsInspector.Api.csproj" />
+    <ProjectReference Include="..\DevOpsInspector.Core\DevOpsInspector.Core.csproj" />
+    <ProjectReference Include="..\DevOpsInspector.Data\DevOpsInspector.Data.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="host.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="local.settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,60 @@
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.deps.json
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csprojAssemblyReference.cache
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfoInputs.cache
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfo.cs
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CoreCompileInputs.cache
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CopyComplete
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.deps.json
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.dll
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.pdb
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csprojAssemblyReference.cache
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfoInputs.cache
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfo.cs
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CoreCompileInputs.cache
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CopyComplete
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.deps.json
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csprojAssemblyReference.cache
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfoInputs.cache
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfo.cs
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CoreCompileInputs.cache
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CopyComplete
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.deps.json
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfoInputs.cache
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfo.cs
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CoreCompileInputs.cache
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CopyComplete
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.deps.json
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.dll
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\bin\Debug\netcoreapp3.1\DevOpsInspector.Data.pdb
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csprojAssemblyReference.cache
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfoInputs.cache
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.AssemblyInfo.cs
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CoreCompileInputs.cache
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.CopyComplete
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.dll
+D:\JD3V\PROJECTS\B4US\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.pdb
+D:\JD3V\PROJECTS\B4US\Reply\Alpitour\1 Progetto Function Dev Ops\Code\DevOpsInspector\DevOpsInspector.Core\obj\Debug\netcoreapp3.1\DevOpsInspector.Core.csproj.AssemblyReference.cache

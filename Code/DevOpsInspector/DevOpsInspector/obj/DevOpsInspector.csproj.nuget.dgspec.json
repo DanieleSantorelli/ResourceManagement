@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector\\DevOpsInspector.csproj": {}
+  },
+  "projects": {
+    "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Api\\DevOpsInspector.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Api\\DevOpsInspector.Api.csproj",
+        "projectName": "DevOpsInspector.Api",
+        "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Api\\DevOpsInspector.Api.csproj",
+        "packagesPath": "C:\\Users\\jacop\\.nuget\\packages\\",
+        "outputPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jacop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\18.4.0.30\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj": {
+                "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Core\\DevOpsInspector.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Core\\DevOpsInspector.Core.csproj",
+        "projectName": "DevOpsInspector.Core",
+        "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Core\\DevOpsInspector.Core.csproj",
+        "packagesPath": "C:\\Users\\jacop\\.nuget\\packages\\",
+        "outputPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jacop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\18.4.0.30\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj": {
+                "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj",
+        "projectName": "DevOpsInspector.Data",
+        "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj",
+        "packagesPath": "C:\\Users\\jacop\\.nuget\\packages\\",
+        "outputPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jacop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\18.4.0.30\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector\\DevOpsInspector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector\\DevOpsInspector.csproj",
+        "projectName": "DevOpsInspector",
+        "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector\\DevOpsInspector.csproj",
+        "packagesPath": "C:\\Users\\jacop\\.nuget\\packages\\",
+        "outputPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jacop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\18.4.0.30\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Api\\DevOpsInspector.Api.csproj": {
+                "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Api\\DevOpsInspector.Api.csproj"
+              },
+              "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Core\\DevOpsInspector.Core.csproj": {
+                "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Core\\DevOpsInspector.Core.csproj"
+              },
+              "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj": {
+                "projectPath": "D:\\JD3V\\PROJECTS\\B4US\\Reply\\Alpitour\\1 Progetto Function Dev Ops\\Code\\DevOpsInspector\\DevOpsInspector.Data\\DevOpsInspector.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.ApplicationInsights.WorkerService": {
+              "target": "Package",
+              "version": "[2.15.0, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[3.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "CRON_SCHEDULE": "5-7 * * * * *",
+  "DEVOPS_PERSONAL_ACCESS_TOKEN": "h5b5okt7kf4lgvn7bwqm4rohtgqnfqjpvb2w52kjprhmxts4nntq",
+  "DEVOPS_ORGANIZATION_BASE_URI": "https://dev.azure.com/DevOpsAlpitourworld/",
+  "PROJECTS_URI": "_apis/projects",
+  "CLASSIFICATION_NODES_ROOT_URI": "{project}/_apis/wit/classificationnodes",
+  "CLASSIFICATION_NODE_URI": "{project}/_apis/wit/classificationnodes?ids={ids}",
+  "TEAMS_URI": "_apis/teams",
+  "MEMBERS_URI": "_apis/projects/{projectId}/teams/{teamId}/members",
+  "ITERATIONS_URI": "{project}/{team}/_apis/work/teamsettings/iterations",
+  "CAPACITIES_URI": "{project}/{team}/_apis/work/teamsettings/iterations/{iterationId}/capacities",
+  "TEAMS_DAYS_OFF": "{project}/{team}/_apis/work/teamsettings/iterations/{iterationId}/teamdaysoff",
+  "CONFIGURATION_PROJECTS": [
+    "Banche Letti",
+    "Booking",
+    "Contact Center",
+    "CRM",
+    "Documenti",
+    "Easybook",
+    "Finance",
+    "Pricing",
+    "Prodotto",
+    "Quality Assurance",
+    "WEBCMS"
+  ]
+}
